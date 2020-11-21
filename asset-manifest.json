@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/roro-zoo/static/css/main.7ae258c9.chunk.css",
+    "main.js": "/roro-zoo/static/js/main.adfc44ea.chunk.js",
+    "main.js.map": "/roro-zoo/static/js/main.adfc44ea.chunk.js.map",
+    "runtime-main.js": "/roro-zoo/static/js/runtime-main.d9f2e4a5.js",
+    "runtime-main.js.map": "/roro-zoo/static/js/runtime-main.d9f2e4a5.js.map",
+    "static/js/2.b2e96b3a.chunk.js": "/roro-zoo/static/js/2.b2e96b3a.chunk.js",
+    "static/js/2.b2e96b3a.chunk.js.map": "/roro-zoo/static/js/2.b2e96b3a.chunk.js.map",
+    "static/js/3.a707e7bc.chunk.js": "/roro-zoo/static/js/3.a707e7bc.chunk.js",
+    "static/js/3.a707e7bc.chunk.js.map": "/roro-zoo/static/js/3.a707e7bc.chunk.js.map",
+    "index.html": "/roro-zoo/index.html",
+    "static/css/main.7ae258c9.chunk.css.map": "/roro-zoo/static/css/main.7ae258c9.chunk.css.map",
+    "static/js/2.b2e96b3a.chunk.js.LICENSE.txt": "/roro-zoo/static/js/2.b2e96b3a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9f2e4a5.js",
+    "static/js/2.b2e96b3a.chunk.js",
+    "static/css/main.7ae258c9.chunk.css",
+    "static/js/main.adfc44ea.chunk.js"
+  ]
+}

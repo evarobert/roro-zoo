@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\evaro\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\evaro\\.nuget\\packages"
+    ]
+  }
+}

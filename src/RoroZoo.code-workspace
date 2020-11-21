@@ -1,0 +1,35 @@
+{
+  "folders": [
+    {
+      "path": "Web"
+    },
+  ],
+  "settings": {
+    "editor.formatOnSave": true,
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "files.autoSave": "onFocusChange",
+    "prettier.endOfLine": "auto",
+    "prettier.jsxSingleQuote": true,
+    "prettier.printWidth": 140,
+    "prettier.singleQuote": true,
+    "prettier.tabWidth": 4
+  },
+  "launch": {
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Launch",
+        "type": "chrome",
+        "request": "launch",
+        "url": "http://localhost:3000",
+        "sourceMaps": true,
+        "webRoot": "${workspaceFolder}",
+        "sourceMapPathOverrides": {
+          "webpack:///./~/*": "${webRoot}/node_modules/*",
+          "webpack:///./ClientApp/*": "${webRoot}/ClientApp/*"
+        }
+      }
+    ]
+  }
+}
